@@ -59,7 +59,7 @@ run :: proc() {
 
     event: sdl3.Event
 
-    time_frame: sdl3.Time = 50_000_000 // 100 milliseconds, 10 updates per seconds
+    time_frame: sdl3.Time = 50_000_000 // 50 milliseconds, 20 updates per seconds
     time_current: sdl3.Time
     time_previous: sdl3.Time
     time_elapsed: sdl3.Time
