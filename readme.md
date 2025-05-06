@@ -4,11 +4,12 @@ The source code is not really optimized, I just wanted to get something up and r
 
 There is no support for Windows in this repository.
 
-You will need to have [Odin](https://odin-lang.org/) installed.
+See: https://odin-lang.org
 
-You will also need to install SDL3:
+You will Odin and SDL3 installed:
 
 ```
+brew install odin
 brew install sdl3
 ```
 
